@@ -1,1 +1,2 @@
 # Optimizacion-Parametros
+Este proyecto consiste en la carga, exploración y preprocesamiento del dataset insurance.csv, seguido del entrenamiento y evaluación de modelos de clasificación (Regresión Logística, KNN y Árbol de Decisión). Se implementan técnicas de manejo de valores faltantes, codificación de variables categóricas, escalado de datos, y optimización de hiperparámetros con GridSearchCV y RandomizedSearchCV. Finalmente, se evalúan los modelos con métricas clave como precisión, recall, F1-score, ROC-AUC y matriz de confusión.
